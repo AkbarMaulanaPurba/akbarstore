@@ -1,0 +1,29 @@
+body{
+background:rgb(250, 243, 244);
+}
+.header{   
+    background-color: #333652   ;
+    height: 60px;
+    padding: 5px 20px 0 20px;   
+    box-shadow: gray 2px 2px 5px;
+}
+.judul{
+    font-size: 28px;
+    color: aliceblue;
+    
+}
+.login{
+    text-align: right;
+    font-size: 15px;
+    margin-top: -45px;
+
+}
+.main{
+    color:#333652;
+}
+.desk{
+    font-size: 20px;
+    padding: 10px 20px 10px 20px ;
+    /*background-color:#d1d8dd83;*/
+    margin: 15px 20px 15px 20px;
+}
